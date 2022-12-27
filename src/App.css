@@ -14,6 +14,11 @@
   margin: 1.2rem;
 }
 
+.err_nocontent {
+  margin: -1rem;
+  color: red;
+}
+
 .diaryEditorWrapper textarea {
   height: 10rem;
 }

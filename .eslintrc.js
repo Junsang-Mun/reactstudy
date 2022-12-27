@@ -32,6 +32,9 @@ module.exports = {
         'semi': [
             'error',
             'always'
+        ],
+        'no-multi-space' : [
+            'error'
         ]
     }
 };
